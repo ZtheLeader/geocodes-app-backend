@@ -1,6 +1,6 @@
-# React Geocoding [Backend] CRUD App in Node.js
+# Geocoding CRUD App in Node.js
 Demo: https://reverse-geocodes-app-react.web.app/
-##App Info
+## App Info
 React Geocoding is a simple React + Nodejs application that shows a map and markers on it. User is able to view, create, edit and delete these markers. All the changes are immediately visible on the map. It's a simple CRUD application for learning and extending. This one is a backend repo in Node.js.
 
 ## Getting Started
